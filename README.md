@@ -1,5 +1,6 @@
 Example
 -------
+
 simple structure for large flask application
     1.  the config.py: define all config of flask application
     2.  there are 2 environment for configration:
